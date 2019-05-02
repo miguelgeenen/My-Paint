@@ -14,7 +14,7 @@ What I tried to add.
 - I tried to add sound to it but I coudn't find a way to do it.
 
 
-Known Bugs.
+Known Issues.
 - When the grid has a rectangular size (13,12) it can't save.
 
 - If you try to load on a different sized grid then the one you saved, it'll load everything in 1 row.
